@@ -356,3 +356,9 @@ current_focus:
     - AI/ML Projects
     - Open-Source Collaboration
     - Technical Product Development
+```
+14 — Connect
+<div align="center"> <a href="mailto:aryanpks1234@gmail.com"> <img src="https://img.shields.io/badge/Gmail-aryanpks1234%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/aryan-shrivastav-5155b23a1"> <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Shrivastav-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Kepler422b"> <img src="https://img.shields.io/badge/GitHub-Kepler422b-312E81?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/Kepler422b"> <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center">
+"Build with purpose. Engineer with precision. Create impact."
+<br/> <a href="https://capsule-render.vercel.app"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/> </a> </div> ```
