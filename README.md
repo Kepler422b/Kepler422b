@@ -1,43 +1,45 @@
 <div align="center">
-
-<a href="https://capsule-render.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=ARYAN%20SHRIVASTAV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20Full-Stack&descAlignY=58&descSize=16" width="100%"/>
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Full-Stack+Developer;Software+Engineering+Enthusiast;AI%2FML+%26+RAG+Explorer;Building+Impact-Driven+Digital+Solutions" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/University-Mumbai-4C1D95?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/IEEE-Student%20Member-312E81?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Location-Thane%2C%20India-5B21B6?style=for-the-badge&labelColor=111827" />
-
-<br/><br/>
-
-<a href="https://github.com/Kepler422b">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-shrivastav-5155b23a1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:aryanpks1234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Kepler422b">
-  <img src="https://img.shields.io/badge/GitHub-Kepler422b-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kepler422b&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Kepler422b?label=FOLLOWERS&style=for-the-badge&color=4F46E5" />
-<img src="https://img.shields.io/github/stars/Kepler422b?label=STARS&style=for-the-badge&color=7C3AED" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=Aryan%20Shrivastav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Computer+Engineering+Student;Full-Stack+Developer+%7C+React+%2B+Node.js;Building+Impact-Driven+Digital+Solutions;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Mumbai-B.Tech%20Computer%20Engineering-6D28D9?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/2024--Present-Academic-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thane%2C%20India-Location-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:aryanpks1234@gmail.com">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-shrivastav">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryanpks1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aryanpks1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kepler422b">
+    <img src="https://img.shields.io/badge/GitHub-Kepler422b-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kepler422b&style=for-the-badge&color=7C3AED&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Kepler422b?style=for-the-badge&color=8B5CF6&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/stars/Kepler422b?affiliated=owner,collaborator,organizationMember&style=for-the-badge&color=A78BFA&label=Stars&logo=github" />
+</div>
 ---
 
 ## `01` — About Me
