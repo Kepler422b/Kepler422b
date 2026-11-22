@@ -284,7 +284,7 @@ A production-oriented web application built around modern full-stack architectur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kepler422b&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=(Kepler422)b&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kepler422b&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
 
